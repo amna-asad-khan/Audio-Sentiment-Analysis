@@ -32,5 +32,3 @@ which contains **7,442 audio samples** with six labeled emotions:
 - Disgust 🤢
 
 
-git clone https://github.com/your-username/audio-sentiment-analysis.git
-cd audio-sentiment-analysis
