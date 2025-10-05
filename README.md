@@ -32,3 +32,14 @@ which contains **7,442 audio samples** with six labeled emotions:
 - Disgust 🤢
 
 
+---
+## 📊 Results
+- The MLP model achieved the highest accuracy among all tested models.
+- Class imbalance affected minority classes such as *fear* and *disgust*.
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+![Training Graph](images/training_plot.png)
+
+
+
